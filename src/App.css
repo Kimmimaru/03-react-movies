@@ -1,0 +1,8 @@
+.app {
+    padding: 0 16px;
+}
+
+.main-content {
+  flex: 1;
+  padding: 2rem 0;
+}
